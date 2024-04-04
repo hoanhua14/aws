@@ -26,3 +26,14 @@ problems solved by using cloud
 - elasticity
 - high availability and fault-tolerance
 - agility: rapid develop, test, and launch
+
+Pricing of the cloud
+- compute: pay for compute time (lambda)
+- storage: pay for data stored in the cloud (s3)
+- networking: pay when the data transfer out of the cloud (data in is free)
+
+How to decide which AZ to use?
+- confidentiality/ compliance: data governance and legal requirements: data can't leave the region (ex: sometimes data can only be regulated within the EU)
+- proximity to customers: reduced latency and lagging
+- available services in that region: sometimes the services you want to use are only available in certain regions
+- pricing: varies region to region
