@@ -37,3 +37,19 @@ How to decide which AZ to use?
 - proximity to customers: reduced latency and lagging
 - available services in that region: sometimes the services you want to use are only available in certain regions
 - pricing: varies region to region
+
+AWS global services:
+- IAM
+- route 53 (DNS service)
+- cloudfront (content delivery network)
+- WAF (web app firewall)
+
+Most AWS serivices are region-scoped:
+- EC2 (IaaS)
+- elastic beanstalk (PaaS)
+- lambda (function as a service)
+- rekognition (saas)
+
+Shared responsiblility model:
+- customer: resp for security IN the cloud
+- AWS: resp for security OF the cloud
