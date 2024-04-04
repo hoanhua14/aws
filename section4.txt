@@ -1,0 +1,5 @@
+IAM: is a global service
+
+IAM policies inheritance
+
+IAM policies structures:
