@@ -3,3 +3,14 @@ IAM: is a global service
 IAM policies inheritance
 
 IAM policies structures:
+
+IAM password policy
+
+IAM security tools:
+- IAM credential report (account-level): a report that lists all your account users and status of their various credentials.
+- IAM access advisor (user-level): access advisor shows the serivce permissions granted to users and when those services were last accessed (can be use t revise policy assignments).
+
+IAM best practices:
+- dont use root account except for aws account setup
+- one physical user = one aws user
+- assign users to group and permissions to groups
