@@ -1,1 +1,28 @@
 what is cloud computing?
+- on-demand delivery of compute power (AWS lambda), database storage (S3 buckets), applications, and other IT resources.
+- pay-as-you-go
+- flexibility in resources based on your need (many servers available to use), time (ready to use within seconds)
+- user-friendly console interface
+
+5 Characteristics of cloud computing
+- on-demand self service (you can set up and run it on your own without interacting with service provider)
+- broad network access (many resources and services available )
+- multi-tenancy and resource pooling (many customers can share the same cloud infrastructures)
+- rapid elasticity and scalability (can scale out and in as needed)
+- measured service (pay only for what you used)
+
+6 pros
+- pay on-demand, no need to pay for hardware
+- many other AWS users => price is adjusted to lower
+- no need to guess the capacity that you need
+- increase speed and agility
+- no need maintanence
+- go global in minutes
+
+problems solved by using cloud
+- flexibility: you can change resources as you need
+- cost-effectiveness: pay as you go
+- scalability
+- elasticity
+- high availability and fault-tolerance
+- agility: rapid develop, test, and launch
