@@ -1,0 +1,4 @@
+- EBS? elastic block storage
+- EFS? elastic file storage
+- EFS-IA? elastic file storage - infrequent access
+- EC2 instance store
